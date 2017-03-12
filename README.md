@@ -1,3 +1,3 @@
 # hello_worlds
 
-apache http client.
+Collection of hello world templates.
